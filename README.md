@@ -1,4 +1,3 @@
-# Project-1-GEM-
 Project 1: Gradient Episodic Memory (GEM) for Continual Learning
 ================================================================
 
